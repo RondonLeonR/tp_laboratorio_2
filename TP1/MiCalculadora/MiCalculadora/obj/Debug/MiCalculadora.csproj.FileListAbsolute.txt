@@ -1,0 +1,28 @@
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\user\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\user\Desktop\TPs 2A\tp\Rondon, Rodolfo 2A\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
