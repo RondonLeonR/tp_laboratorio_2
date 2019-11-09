@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.exe.config
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.exe
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Archivos.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Instanciables.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Archivos.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Instanciables.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csproj.CopyComplete
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.exe
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.exe.config
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.exe
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\testMain.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Archivos.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Instanciables.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Archivos.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Clases Instanciables.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.csproj.CopyComplete
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.exe
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\Rondon, Rodolfo 2A-TP 3 (Recuperatorio)\TP3\Rondon.Rodolfo.2A.TP3\testMain\obj\Debug\testMain.pdb
