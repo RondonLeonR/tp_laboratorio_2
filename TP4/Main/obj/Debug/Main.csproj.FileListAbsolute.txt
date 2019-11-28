@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Main.exe.config
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Main.exe
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Main.pdb
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\TP4\Main\bin\Debug\Entidades.dll.config
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.Form1.resources
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.exe
+C:\Users\user\source\repos\TP4\Main\obj\Debug\Main.pdb

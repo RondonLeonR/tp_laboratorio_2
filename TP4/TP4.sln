@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{0B383E8D-0913-4879-B06E-744A3CE7E34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Unitarios", "Test Unitarios\Test Unitarios.csproj", "{C69128E5-635B-4C5C-A8B4-2AF6BABC6330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{3CD646CB-6E52-4428-9344-FBF5423DAD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B383E8D-0913-4879-B06E-744A3CE7E34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B383E8D-0913-4879-B06E-744A3CE7E34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B383E8D-0913-4879-B06E-744A3CE7E34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B383E8D-0913-4879-B06E-744A3CE7E34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69128E5-635B-4C5C-A8B4-2AF6BABC6330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69128E5-635B-4C5C-A8B4-2AF6BABC6330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69128E5-635B-4C5C-A8B4-2AF6BABC6330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69128E5-635B-4C5C-A8B4-2AF6BABC6330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD646CB-6E52-4428-9344-FBF5423DAD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD646CB-6E52-4428-9344-FBF5423DAD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD646CB-6E52-4428-9344-FBF5423DAD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD646CB-6E52-4428-9344-FBF5423DAD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C14A490-43A7-4FCC-9225-2A3CD43DD780}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.AssemblyInfo.cs
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Test Unitarios.deps.json
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Test Unitarios.runtimeconfig.json
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Test Unitarios.runtimeconfig.dev.json
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Test Unitarios.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Test Unitarios.pdb
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\Users\user\source\repos\TP4\Test Unitarios\bin\Debug\netcoreapp2.1\Entidades.dll.config
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.csproj.CopyComplete
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.dll
+C:\Users\user\source\repos\TP4\Test Unitarios\obj\Debug\netcoreapp2.1\Test Unitarios.pdb
