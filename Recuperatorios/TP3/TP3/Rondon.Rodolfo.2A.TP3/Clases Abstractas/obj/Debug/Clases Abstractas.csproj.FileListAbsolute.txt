@@ -1,0 +1,18 @@
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\user\Desktop\tp 2 nuevo\tp_laboratorio_2\TP3\TP3\Rondon.Rodolfo.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

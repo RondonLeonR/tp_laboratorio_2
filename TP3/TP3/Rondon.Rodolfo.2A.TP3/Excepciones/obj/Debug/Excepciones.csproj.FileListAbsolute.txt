@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\user\Desktop\TPs 2A\tp_laboratorio_2\tp3\TP3\Rondon.Rodolfo.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
